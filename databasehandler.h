@@ -32,3 +32,4 @@ private slots:
     void on_pushButton_clicked();
 };
 #endif // DATABASEHANDLER_H
+
